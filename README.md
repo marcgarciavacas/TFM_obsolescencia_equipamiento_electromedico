@@ -37,9 +37,3 @@ iniciar la aplicación.
 El archivo "Analisis_sensibilidad.xlsx" se utiliza de forma independiente
 al prototipo. Incluye los escenarios y un resumen de los cambios respecto
 a la configuración original.
-
-El análisis del TFM utiliza variaciones del ±10 % en pesos y umbrales de
-correctivos, y desplazamientos de ±5 puntos en los límites entre niveles.
-
-Este libro contiene su propia copia de los datos y no se actualiza
-automáticamente al modificar "Base_datos.xlsx".
