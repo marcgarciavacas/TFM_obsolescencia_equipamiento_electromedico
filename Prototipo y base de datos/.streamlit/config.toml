@@ -1,0 +1,23 @@
+# APARIENCIA.
+# Guarda los cambios y reinicia Streamlit para verlos.
+# Conserva las comillas y el signo # dentro de los códigos de color.
+
+[theme]
+base = "light"
+primaryColor = "#176b83"             # Botones y barras del resumen
+backgroundColor = "#ffffff"         # Fondo principal
+secondaryBackgroundColor = "#f2f6f8" # Panel lateral y controles
+textColor = "#173344"               # Texto y cifras de las barras
+font = "system-ui, Segoe UI, sans-serif"
+headingFont = "system-ui, Segoe UI, sans-serif"
+baseFontSize = 14                   # Tamaño del texto en píxeles
+headingFontSizes = ["23px", "18px", "15px"]
+headingFontWeights = [500, 500, 500]
+metricValueFontSize = "28px"
+metricValueFontWeight = 500
+
+[browser]
+gatherUsageStats = false
+
+[server]
+address = "127.0.0.1"
